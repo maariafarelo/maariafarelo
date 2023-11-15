@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 - 💬 Ask me about ... -->
 
-![dream_TradingCard__1_-fotor-20231115172328-removebg-preview](https://github.com/maariafarelo/maariafarelo/assets/114859584/ffd44703-71a2-4f60-94d4-22a084c526c2)
+
