@@ -1,10 +1,6 @@
-<img align="right" src= "https://github.com/maariafarelo/maariafarelo/assets/114859584/c6ddb584-6d99-49b5-b9f2-11e9fa717f48" height=375px>
+<img align="left" src="https://github.com/maariafarelo/maariafarelo/assets/114859584/c6ddb584-6d99-49b5-b9f2-11e9fa717f48" height=275px>
 
-<!--
-**maariafarelo/maariafarelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-### Hi there 👋
+### Hey! 
 - 📫 How to reach me: maria190504@gmail.com 
 - 😄 Pronouns: She / Her
 - 🙋‍♀️ Hackathon Organizer
