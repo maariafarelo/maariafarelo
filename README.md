@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on surviving college
 - 📫 How to reach me: maria190504@gmail.com 
 - 😄 Pronouns: She / Her
 - 🙋‍♀️ Hackathon Organizer
 - ☕ Addicted to coffee
+- 🔭 I’m currently working on surviving college
  <!-- 👯 I’m looking to collaborate on .
 - 🤔 I’m looking for help with ...
 - 🌱 I’m currently learning 
