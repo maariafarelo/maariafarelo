@@ -3,7 +3,7 @@
 
 ### Hey! 
 - 📫 How to reach me: maria190504@gmail.com or maria.farelo@hackupc.com
-- 🖥️ mariafarelo.com
+- 🖥️ https://mariafarelo.com/
 - 😄 Pronouns: She / Her
 - 🙋‍♀️ Hackathon Organizer
 - 📘 Addicted to books
