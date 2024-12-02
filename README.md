@@ -4,7 +4,6 @@
 ### Hey! 
 - 📫 How to reach me: maria190504@gmail.com or maria.farelo@hackupc.com
 - 🖥️ https://mariafarelo.com/
-- 😄 Pronouns: She / Her
 - 🙋‍♀️ Hackathon Organizer
 - 📘 Addicted to books
 - 🔭 Working on surviving college
