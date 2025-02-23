@@ -24,9 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/[linkedin_name]" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[name]" height="30" width="40" /></a>
-<a href="https://instagram.com/[instagram_handle]" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="[name]" height="30" width="40" /></a>
-<a href="mailto:[email]"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="[name]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mariafareloiglesias" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[name]" height="30" width="40" /></a>
+<a href="mailto:maria190504@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="[name]" height="30" width="40" /></a>
 
 </p>
 <br>
