@@ -2,7 +2,7 @@
 <li> 🙋‍♀️ Hackathon Organizer </li>
 <li> 📘 Addicted to books </li> 
 <li> 🔭 Working on surviving college </li>
-
+<li> 🖥️ https://mariafarelo.com </li>
 
 <br>
 <h3 align="left">Languages and Tools I'm currently learning:</h3>
