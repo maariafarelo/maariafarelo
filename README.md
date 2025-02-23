@@ -4,11 +4,6 @@
 <li> 🔭 Working on surviving college </li>
 
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 <br>
 <h3 align="left">Languages and Tools I'm currently learning:</h3>
 
@@ -19,8 +14,6 @@
 </p>
 
 <br>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
